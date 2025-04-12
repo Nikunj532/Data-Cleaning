@@ -1,0 +1,2 @@
+Data Cleaning Project – World Layoffs Dataset (MySQL)
+Cleaned and structured a real-world raw dataset on global layoffs using MySQL. Performed data profiling, handled missing and inconsistent values, standardized formats, and optimized the dataset for analysis. Demonstrated proficiency in SQL queries and database management to transform unstructured data into a clean, reliable dataset suitable for further analytics.
